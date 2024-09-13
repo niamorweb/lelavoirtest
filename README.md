@@ -8,7 +8,8 @@ React.js (latest) : Utilisation de React.js pour construire les composants front
 Next.js (latest) : Utilisation de Next.js pour le routage des pages.
 Node.js (latest) : Backend si nécessaire pour les appels API.
 pnpm : Gestionnaire de paquets pour installer les dépendances.
-Instructions
+
+## Instructions
 Récupérez le projet : Clonez ce dépôt sur votre machine en utilisant la commande suivante :
 
 Copier le code
