@@ -58,7 +58,6 @@ Le code doit être bien organisé et facile à lire. Veillez à respecter les co
 Concentrez-vous sur une solution simple et fonctionnelle. Il est préférable de livrer un projet bien structuré et partiellement complet plutôt que de viser trop haut.
 ## Focus sur la logique : 
 Même si tout n'est pas parfaitement fonctionnel à la fin du test, la logique et la structure du code sont les éléments les plus importants.
-Après le test
 ## Pas de modifications : 
 Une fois votre dépôt GitHub public soumis, aucune modification ne doit être apportée jusqu'à l'entretien suivant.
 
