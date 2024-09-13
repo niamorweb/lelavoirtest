@@ -52,7 +52,8 @@ Le design ne doit pas être complexe, mais il doit être propre et fonctionnel.
 Votre front doit prendre en charge les erreurs et afficher des messages clairs à l'utilisateur.
 ## Clarté du code et de l'architecture : 
 Le code doit être bien organisé et facile à lire. Veillez à respecter les conventions de nommage et à structurer vos composants de manière cohérente.
-Conseils
+
+# Conseils
 ## Ne prenez pas de risques inutiles : 
 Concentrez-vous sur une solution simple et fonctionnelle. Il est préférable de livrer un projet bien structuré et partiellement complet plutôt que de viser trop haut.
 ## Focus sur la logique : 
