@@ -39,6 +39,7 @@ export default function LoginPage() {
       if (response.ok) {
         const data = await response.json();
         localStorage.setItem("token", data.token);
+        localStorage.setItem("name", data.name);
         setMessage("Connexion réussie ! 🎉 Bienvenue");
         router.push("/protected");
       } else {

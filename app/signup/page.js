@@ -39,6 +39,8 @@ export default function SignupPage() {
       if (response.ok) {
         const data = await response.json();
         setMessage("Inscription réussie !");
+        localStorage.setItem("token", data.token);
+
         router.push("/protected");
       } else {
         const errorData = await response.json();

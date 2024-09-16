@@ -8,14 +8,14 @@ export async function POST(request) {
     // Lire le corps de la requête
     const { name, email, password } = await request.json();
 
-    const userFound = fakeUsers.find(
-      (user) => user.email === email && user.password === password
-    );
+    // const userFound = fakeUsers.find(
+    //   (user) => user.email === email && user.password === password
+    // );
 
-    if (userFound) return;
+    // if (userFound) NextResponse.json({ error: "User already registered" });
 
-    const newUser = { name, email, password };
-    fakeUsers.push(newUser);
+    // const newUser = { name, email, password };
+    // fakeUsers.push(newUser);
 
     const exampleToken = "example_token";
 
